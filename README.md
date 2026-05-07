@@ -20,6 +20,6 @@ Este é um visualizador especializado no formato **TGA** (Truevision Graphics Ad
 - Leitura nativa de arquivos TGA (sem dependência de bibliotecas externas pesadas)
 
 ### 📸 Screenshots
+Tela Principaç
+![Tela Principal do Visualizador](screenshots/tga.jpg)
 
-![Tela Principal do Visualizador](screenshots/tga-viewer-main.png)
-![Navegação entre imagens](screenshots/tga-navigation.png)
