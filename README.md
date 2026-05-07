@@ -21,5 +21,5 @@ Este é um visualizador especializado no formato **TGA** (Truevision Graphics Ad
 
 ### 📸 Screenshots
 Tela Principaç
-![Tela Principal do Visualizador](screenshots/tga.jpg)
+![Tela Principal do Visualizador](screenshot/tga.jpg)
 
